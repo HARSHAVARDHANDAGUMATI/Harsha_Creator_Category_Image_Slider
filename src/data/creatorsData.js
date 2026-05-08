@@ -7,7 +7,7 @@ export const creators = [
       'Bold visual storytellers crafting campaign-ready identities, polished ads, and conversion-focused brand assets.',
     rating: '4.9',
     reviews: '12.8k',
-    image: '/images/graphic_designer_category_1778223493139.png',
+    image: '/images/graphic_designer.png?v=2',
   },
   {
     id: 'content-creator',
@@ -17,7 +17,7 @@ export const creators = [
       'Multi-platform creators building magnetic short-form content, launch storytelling, and audience-first creative hooks.',
     rating: '4.8',
     reviews: '18.4k',
-    image: '/images/content_creator_category_1778223510380.png',
+    image: '/images/content_creator.png?v=2',
   },
   {
     id: 'video-editor',
@@ -27,7 +27,7 @@ export const creators = [
       'Editors shaping fast, immersive narratives with sharp pacing, premium transitions, and polished post-production.',
     rating: '4.9',
     reviews: '14.1k',
-    image: '/images/video_editor_category_1778223529299.png',
+    image: '/images/video_editor.png?v=2',
   },
   {
     id: 'ui-ux-designer',
@@ -37,7 +37,7 @@ export const creators = [
       'Interface designers blending product thinking, clean systems, and intuitive journeys into standout digital experiences.',
     rating: '5.0',
     reviews: '9.6k',
-    image: '/images/ui_designer_category_1778223546087.png',
+    image: '/images/ui_designer.png?v=2',
   },
   {
     id: 'photographer',
@@ -47,7 +47,7 @@ export const creators = [
       'Photographers capturing high-impact stills with editorial lighting, premium composition, and refined art direction.',
     rating: '4.7',
     reviews: '11.2k',
-    image: '/images/photographer_category_1778223560881.png',
+    image: '/images/photographer.png?v=2',
   },
   {
     id: 'animator',
@@ -57,6 +57,6 @@ export const creators = [
       'Animators designing fluid motion, polished character work, and dynamic scenes that bring digital stories to life.',
     rating: '4.9',
     reviews: '8.9k',
-    image: '/images/motion_artist_category_1778223575242.png',
+    image: '/images/animator.png?v=2',
   },
 ]
